@@ -1,9 +1,9 @@
 # PROG2500-A2-Chinook
 
 Project Template: 
-  WPF Application targeting .Net 7.0 and Windows 10.0.17763.0
+  WPF Application targeting .Net 9.0 and Windows 10.0.26100.0
 
 Packages Installed:
-  Microsoft.EntityFrameworkCore (v7.0.3)
-  Microsoft.EntityFrameworkCore.Design (v7.0.3)
-  Microsoft.EntityFrameworkCore.Tools (v7.0.3)
+  Microsoft.EntityFrameworkCore (v9.0.23)
+  Microsoft.EntityFrameworkCore.Design (v9.0.2)
+  Microsoft.EntityFrameworkCore.Tools (v9.0.2)
